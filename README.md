@@ -27,16 +27,16 @@ Java encryption is widely used in many industries, including banking, healthcare
 High-quality AI code reviews
 Bito closes PRs 49% faster, reduces regressions by 34%, and delivers 87% human-grade feedback.
 
-Start free trial
-Understanding the Basics of Java Encryption
-Encryption works by transforming data using an algorithm. When encryption is used, plain text is transformed into an unreadable format known as ciphertext. This ciphertext cannot be decrypted without the use of the corresponding key. In order to decrypt the ciphertext, both parties must have access to this encryption key. This key can be made up of numbers, symbols and characters.
 
-Java encryption is a type of encryption that is used to secure data. It is based on the Advanced Encryption Standard (AES) algorithm, which is a symmetric encryption algorithm. This means that the same key is used to both encrypt and decrypt the data. Java encryption is used to protect data from unauthorized access and to ensure that data is not modified or corrupted during transmission.
+2) Understanding the Basics of Java Encryption
+  Encryption works by transforming data using an algorithm. When encryption is used, plain text is transformed into an unreadable format known as ciphertext. This ciphertext cannot be decrypted without the use of the corresponding key. In order to decrypt the ciphertext, both parties must have access to this encryption key. This key can be made up of numbers, symbols and characters.
+  
+  Java encryption is a type of encryption that is used to secure data. It is based on the Advanced Encryption Standard (AES) algorithm, which is a symmetric encryption algorithm. This means that the same key is used to both encrypt and decrypt the data. Java encryption is used to protect data from unauthorized access and to ensure that data is not modified or corrupted during transmission.
 
 3) How Java Encryption Works
-Java uses various algorithms for its encryption process. These algorithms are designed to use mathematical calculations in order to scramble the data. Once data is scrambled, the algorithms will generate a unique encryption key which will be used to encrypt and decrypt the data. This key is usually randomly generated and can be kept secret or shared between parties.
-
-The encryption process is designed to be secure and reliable. It is important to note that the encryption process is not foolproof and can be broken if the encryption key is compromised. It is also important to ensure that the encryption key is kept secure and is not shared with anyone who is not authorized to access the data.
+  Java uses various algorithms for its encryption process. These algorithms are designed to use mathematical calculations in order to scramble the data. Once data is scrambled, the algorithms will generate a unique encryption key which will be used to encrypt and decrypt the data. This key is usually randomly generated and can be kept secret or shared between parties.
+  
+  The encryption process is designed to be secure and reliable. It is important to note that the encryption process is not foolproof and can be broken if the encryption key is compromised. It is also important to ensure that the encryption key is kept secure and is not shared with anyone who is not authorized to access the data.
 
 4) Types of Java Encryption
 The most commonly used encryption in Java is the Advanced Encryption Standard (AES). This type of encryption uses a block size of 128 bits which is considered to be secure enough for most applications. Other types of encryption include Triple DES, Blowfish and RSA. Each type of encryption has its own unique features and should be chosen based on the application’s needs.
