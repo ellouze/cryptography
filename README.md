@@ -35,6 +35,7 @@ Bito closes PRs 49% faster, reduces regressions by 34%, and delivers 87% human-g
   Java encryption is a type of encryption that is used to secure data. It is based on the Advanced Encryption Standard (AES) algorithm, which is a symmetric encryption algorithm. This means that the same key is used to both encrypt and decrypt the data. Java encryption is used to protect data from unauthorized access and to ensure that data is not modified or corrupted during transmission.
 
 3) How Java Encryption Works
+   
   Java uses various algorithms for its encryption process. These algorithms are designed to use mathematical calculations in order to scramble the data. Once data is scrambled, the algorithms will generate a unique encryption key which will be used to encrypt and decrypt the data. This key is usually randomly generated and can be kept secret or shared between parties.
   
   The encryption process is designed to be secure and reliable. It is important to note that the encryption process is not foolproof and can be broken if the encryption key is compromised. It is also important to ensure that the encryption key is kept secure and is not shared with anyone who is not authorized to access the data.
@@ -45,12 +46,14 @@ The most commonly used encryption in Java is the Advanced Encryption Standard (A
 When selecting an encryption type for a Java application, it is important to consider the security requirements of the application. AES is the most secure type of encryption, but it is also the most computationally expensive. Triple DES is less secure than AES, but it is faster and more efficient. Blowfish is a good choice for applications that require a high level of security, but it is not as efficient as Triple DES. RSA is the most secure type of encryption, but it is also the most computationally expensive.
 
 4) Benefits of Java Encryption
+   
 There are many benefits to using Java encryption. The primary benefit is that it provides a secure way to protect sensitive information and helps protect against malicious attempts to access confidential data. Encryption also helps to ensure that data is not compromised while in transit over public networks. In addition, it can help protect confidentiality when transferring information over mobile networks.
 
 Java encryption also offers a high level of scalability, allowing organizations to easily adjust their encryption settings as their needs change. It also provides a high degree of flexibility, allowing organizations to customize their encryption settings to meet their specific security requirements. Finally, Java encryption is relatively easy to implement, making it a cost-effective solution for organizations of all sizes.
 
 
 5) Implementing Java Encryption
+   
 The process of implementing Java encryption is relatively straightforward. The first step is to create a class which will store the cipher algorithm, encryption key and other relevant variables. Next, the algorithm must be initialized and all relevant variables must be set up. Finally, the encrypted data must be read and written using a stream.
 
 It is important to note that the encryption key must be kept secure and should not be shared with anyone. Additionally, the encryption algorithm should be regularly updated to ensure that the data remains secure. Finally, the encrypted data should be stored in a secure location to prevent unauthorized access.
