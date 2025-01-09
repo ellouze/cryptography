@@ -29,6 +29,7 @@ Bito closes PRs 49% faster, reduces regressions by 34%, and delivers 87% human-g
 
 
 2) Understanding the Basics of Java Encryption
+   
   Encryption works by transforming data using an algorithm. When encryption is used, plain text is transformed into an unreadable format known as ciphertext. This ciphertext cannot be decrypted without the use of the corresponding key. In order to decrypt the ciphertext, both parties must have access to this encryption key. This key can be made up of numbers, symbols and characters.
   
   Java encryption is a type of encryption that is used to secure data. It is based on the Advanced Encryption Standard (AES) algorithm, which is a symmetric encryption algorithm. This means that the same key is used to both encrypt and decrypt the data. Java encryption is used to protect data from unauthorized access and to ensure that data is not modified or corrupted during transmission.
@@ -48,5 +49,10 @@ There are many benefits to using Java encryption. The primary benefit is that it
 
 Java encryption also offers a high level of scalability, allowing organizations to easily adjust their encryption settings as their needs change. It also provides a high degree of flexibility, allowing organizations to customize their encryption settings to meet their specific security requirements. Finally, Java encryption is relatively easy to implement, making it a cost-effective solution for organizations of all sizes.
 
+
+5) Implementing Java Encryption
+The process of implementing Java encryption is relatively straightforward. The first step is to create a class which will store the cipher algorithm, encryption key and other relevant variables. Next, the algorithm must be initialized and all relevant variables must be set up. Finally, the encrypted data must be read and written using a stream.
+
+It is important to note that the encryption key must be kept secure and should not be shared with anyone. Additionally, the encryption algorithm should be regularly updated to ensure that the data remains secure. Finally, the encrypted data should be stored in a secure location to prevent unauthorized access.
 
 
