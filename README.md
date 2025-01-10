@@ -4,6 +4,8 @@ https://www.linkedin.com/pulse/securing-sensitive-data-spring-boot-jasypt-k%C4%8
 
 https://www.javacodegeeks.com/2024/04/a-guide-to-encryption-and-decryption-in-java.html
 
+https://www.devglan.com/online-tools/aes-encryption-decryption
+
 
 Table of Contents
 1) What is Java Encryption?
